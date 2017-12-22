@@ -1,6 +1,6 @@
 # Rise-of-the-Dragons
 
-This is my individual MSIS2629 - Dashboard project. It contains
+Dashboard project in Tableau. It contains
 
 - Raw-data-for-project : This folder has all the raw data required for this project
 - Cleaned-and-transformed-Data : This folder has the cleaned and transformed data which is tableau ready
